@@ -11,7 +11,7 @@
 
 ### USAGES
 
-Same as ```[printf](http://manpagesfr.free.fr/man/man3/printf.3.html)```
+Same as [printf](http://manpagesfr.free.fr/man/man3/printf.3.html) function.
 
 ## DEVELOPMENT
 
